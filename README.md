@@ -1,0 +1,2 @@
+# Prediction-of-Crystal-System-of-silicate-based-cathode-material-of-Li-ion-battery
+Predicting the crystal system of silicate-based cathode materials for Li-ion batteries, this project involves data visualization, cleaning, and feature engineering, followed by training models like SVM, KNN, RF, and NN. Key findings aid material science by identifying optimal features and models for battery performance.
